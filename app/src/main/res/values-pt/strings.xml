@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lixeira Cliente</string>
+    <string name="change_capacity">Mudar capacidade</string>
+    <string name="capacity">"Capacidade: "</string>
+    <string name="actual_trash">"Lixo atual: "</string>
+    <string name="put_trash">Colocar lixo</string>
+    <string name="empty_can_bin">Esvaziar lixeira</string>
+    <string name="lock_can_bin">Travar lixeira</string>
+    <string name="connect">Conectar</string>
+    <string name="connection_error">Erro na conexão</string>
+</resources>

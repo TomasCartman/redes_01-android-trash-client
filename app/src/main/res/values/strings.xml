@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trash Client</string>
+    <string name="change_capacity">Change capacity</string>
+    <string name="capacity">Capacity: </string>
+    <string name="actual_trash">Actual trash: </string>
+    <string name="put_trash">Put trash</string>
+    <string name="empty_can_bin">Empty can bin</string>
+    <string name="lock_can_bin">Lock can bin</string>
+    <string name="host_ip" translatable="false">Host IP:</string>
+    <string name="host_port" translatable="false">Host port:</string>
+    <string name="connect">Connect</string>
+    <string name="connection_error">Connection error</string>
+</resources>
